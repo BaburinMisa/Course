@@ -45,7 +45,7 @@ export default{
 
 
 
-      <div class="Slider">
+  <div class="Slider">
 
 
     <div class="Slider-block-slider">
